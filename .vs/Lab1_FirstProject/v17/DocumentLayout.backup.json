@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\jumppad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jumppad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|d:\\nau\\3_course\\2_semester\\\u043C\u0456\u0440\u0441\\lab1_firstproject\\assets\\scripts\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\teleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\hammerrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hammerrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\dart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\assets\\scripts\\enemyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD264C4-CCD1-4728-8EC3-E4C21577465C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyBoard.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\EnemyBoard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBoard.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\EnemyBoard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:33:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthManager.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:30:28.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dart.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Dart.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Dart.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Dart.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Dart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:28:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HammerRotator.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\HammerRotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HammerRotator.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\HammerRotator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HammerRotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T16:01:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingPlatform.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingPlatform.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T15:31:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teleport.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Teleport.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Teleport.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Teleport.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Teleport.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:48:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Display.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Display.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Display.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Display.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Display.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T14:00:23.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Collector.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Collector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Collector.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\Collector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Collector.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:46:43.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JumpPad.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\JumpPad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JumpPad.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\JumpPad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JumpPad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T11:03:36.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAowJsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T09:59:17.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\NAU\\3_course\\2_semester\\\u041C\u0406\u0420\u0421\\Lab1_FirstProject\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T17:21:11.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
